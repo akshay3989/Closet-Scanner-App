@@ -207,7 +207,7 @@ Add screenshots here.
 
 <img width="603" height="1311" alt="IMG_2030" src="https://github.com/user-attachments/assets/c1f264d8-4f2f-4539-98d0-31203d2950ae" />
 
-<img width="603" height="1311" alt="89518" src="https://github.com/user-attachments/assets/981d1f32-7ccd-4d5f-b98b-1ce23da2c1f0" />
+
 
 
 ---
