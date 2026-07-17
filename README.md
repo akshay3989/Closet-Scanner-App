@@ -1,3 +1,4 @@
+
 # Closet-Scanner-App
 An iOS application built with **SwiftUI**, **RoomPlan**, **ARKit**, **RealityKit**, and **LiDAR** that scans a closet, generates a clean digital representation of the empty space by hiding detected contents, and calculates the closet's dimensions.
 ---
@@ -196,7 +197,7 @@ git clone https://github.com/<your-username>/ClosetScanner.git
 Add screenshots here.
 
 ```
-
+<img width="1206" height="2622" alt="89518" src="https://github.com/user-attachments/assets/981d1f32-7ccd-4d5f-b98b-1ce23da2c1f0" />
 
 ```
 
