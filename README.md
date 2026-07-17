@@ -196,10 +196,10 @@ git clone https://github.com/<your-username>/ClosetScanner.git
 
 Add screenshots here.
 
-```
+
 <img width="1206" height="2622" alt="89518" src="https://github.com/user-attachments/assets/981d1f32-7ccd-4d5f-b98b-1ce23da2c1f0" />
 
-```<img width="603" height="1311" alt="IMG_2031" src="https://github.com/user-attachments/assets/1ea79b75-3442-4d0f-9525-9c76a9ef8237" />
+<img width="603" height="1311" alt="IMG_2031" src="https://github.com/user-attachments/assets/1ea79b75-3442-4d0f-9525-9c76a9ef8237" />
 
 
 ---
