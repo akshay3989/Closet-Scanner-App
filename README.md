@@ -196,7 +196,7 @@ git clone https://github.com/<your-username>/ClosetScanner.git
 Add screenshots here.
 
 ```
-<img width="735" height="1600" alt="WhatsApp Image 2026-07-16 at 8 46 09 PM" src="https://github.com/user-attachments/assets/d4877bd4-f7c8-44bf-b2a7-5194640e2ff4" />
+
 
 ```
 
