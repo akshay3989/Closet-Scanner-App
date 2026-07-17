@@ -19,7 +19,7 @@ This project was developed as part of a technical challenge requiring a live iPh
 * Clean empty-closet visualization
 * Accuracy validation against manual tape measurements
 * Modern SwiftUI user interface
-* Modular MVVM-inspired architecture
+
 
 ---
 
@@ -30,7 +30,6 @@ This project was developed as part of a technical challenge requiring a live iPh
 * RoomPlan
 * ARKit
 * RealityKit
-* Combine
 * Xcode
 * iPhone LiDAR Scanner
 
@@ -42,7 +41,7 @@ This project was developed as part of a technical challenge requiring a live iPh
 
 * LiDAR-enabled iPhone
 
-  * iPhone 12 Pro or newer Pro models
+  
   * iPhone 17 Pro (used for development and testing)
 
 ### Software
@@ -133,9 +132,6 @@ To evaluate measurement performance:
 5. Calculate the absolute error for each dimension.
 
 ### Validation Metrics
-
-* Average Error
-* Maximum Error
 * Mean Absolute Error (MAE)
 
 Validation was performed under multiple conditions including:
